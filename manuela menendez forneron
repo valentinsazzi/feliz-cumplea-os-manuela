@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Feliz cumpleaños, Manuela!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fffaf0;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+
+            /* Imagen de fondo con ruta corregida */
+            background-image: url("d:/usuarios/alumno/imágenes/pngtree-romantic-hearts-tie-dye-wash-brush-strokes-a-seamless-love-texture-image_13620483.png");
+            background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            background-attachment: fixed; /* La imagen permanece fija al hacer scroll */
+        }
+        h1 {
+            text-align: center;
+            color: #000000; /* Título en negro */
+            text-shadow: none; /* Quitar sombra al título */
+        }
+        p {
+            margin-bottom: 10px;
+            font-size: 1.2em; /* Tamaño del texto */
+        }
+        b {
+            color: #000000; /* Color negro para palabras resaltadas */
+            font-weight: bold;
+        }
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 10px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡<b>Feliz cumpleaños</b>, Manuela!</h1>
+
+    <p>Estoy muy <b>feliz</b> de que estés creciendo, convirtiéndote en toda una <b>mujer</b>, gracias por permitirme formar parte de tu vida. Estoy <b>emocionado</b> por nosotros, porque a pesar de que estamos tan <b>lejos</b>, hemos llegado a los dos años. Me encanta poder celebrar tu <b>cumpleaños</b> por segunda vez, espero que este no sea el último. Quiero celebrar más <b>cumpleaños</b> tuyos, porque te <b>amo</b> muchísimo. Eres lo <b>mejor</b> que le ha pasado a mi vida. No sé cómo pudiste enamorarte de un <b>ogro gruñón</b> feo como yo, pero me cambiaste mucho la vida desde que te conocí. Eres la <b>mejor persona</b> que conocí; nunca creí amar a alguien como lo hago contigo.</p>
+    <img src="d:/usuarios/alumno/imágenes/tumblr_1a287579a589ba6b0593f9bb80ccacb9_cea2fdc1_1280.gif" alt="Imagen 1">
+
+    <p>Se que discutimos varias veces, pero no me importa, porque aún cuando <b>discutimos</b>, te <b>amo</b>. Incluso me gusta molestarte en ocasiones, por lo <b>adorable</b> que te ves. Quiero que tengas algo claro: nunca te voy a dejar de <b>amar</b>, porque tú eres mi <b>princesa</b>, mi <b>niña</b>, mi <b>mundo entero</b>, eres mi <b>universo</b>, eres la razón que tengo para <b>sonreír</b> en las mañanas, tardes y noches. Quiero seguir contigo toda mi <b>vida</b>. Nunca quiero que <b>terminemos</b>, porque sinceramente, ya no creo que pueda vivir sin ti. Ya eres todo lo que tengo. Te juro que cada día que hablamos, me <b>enamoro</b> más de ti. Eres <b>maravillosa</b>, <b>hermosa</b>, <b>bellísima</b>. No necesitas cambiar nada de ti, porque ya eres <b>perfecta</b>.</p>
+    <img src="d:/usuarios/alumno/imágenes/7830ed9be912f4fe083f0f7ea7a57549.jpg" alt="Imagen 2">
+
+    <p>Nunca quiero que pienses que eres <b>molesta</b>, porque a mí me gusta mucho que me cuentes tus problemas. Adoro poder <b>escucharte</b>, oír cómo ha sido tu día a día, porque me gusta saber qué le sucede a mi <b>princesa</b>. No importa qué tan pequeño sea tu <b>problema</b>, yo siempre estaré para escucharte. Siempre estaré para sacarte una <b>sonrisa</b>, animarte, hacerte <b>feliz</b>. Nunca te voy a <b>abandonar</b>, porque siempre quiero estar contigo. Quiero que estemos juntos hasta que seamos un par de <b>ancianos</b>, para poder tomarte de la mano, decirte cuánto te <b>amo</b>, que sos el <b>amor</b> de mi vida y que fuiste lo <b>mejor</b> de toda mi vida, la <b>princesa</b> de mi cuento de hadas hecha realidad. Quiero ser tu <b>caballero</b> de armadura; toda la <b>vida</b> estaré para <b>protegerte</b> y cuidarte. Nunca estarás <b>sola</b>, mi bebeshita hermosa. Estaré contigo hasta el fin de los tiempos, siéndote <b>leal</b>.</p>
+    <img src="d:/usuarios/alumno/imágenes/48c5a98f30b87a2ef3232baaa9a9b570.jpg" alt="Imagen 3">
+
+    <p><b>TE AMO AHORA Y POR TODA LA ETERNIDAD</b>, TE AMO MUCHO, AMOR.</p>
+    <img src="d:/usuarios/alumno/imágenes/STK688728.jpg" alt="Imagen 4">
+
+    <p>Nunca lo olvides, siempre que necesites desahogarte, decirle a alguien las tramas de tus novelas, llorar, decir chismes o simplemente alguien que te mime, ahí estaré. Siempre estaré para ti. <b>I love you forever ♥️</b></p>
+    <img src="d:/usuarios/alumno/imágenes/peter b parker.jpg" alt="Imagen 5">
+</body>
+</html>
